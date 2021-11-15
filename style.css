@@ -1,0 +1,11 @@
+body {
+    height: 3000px;
+    background-color: rgb(98, 110, 131);
+}
+
+.mb-3 {
+    margin-bottom: 15px;
+}
+h1{
+    color: rgb(82, 32, 95);font-size: 50px;
+}
